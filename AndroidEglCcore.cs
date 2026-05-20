@@ -2,7 +2,7 @@
 using Android.Opengl;
 
 
-public class EglCore
+public class Offscreen
 {
     private EglCore mEglCore;
     private EGLSurface mEGLSurface = EGL14.EglNoSurface;
